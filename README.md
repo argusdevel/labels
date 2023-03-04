@@ -11,7 +11,7 @@ API-методы для работы с приложением:
 
 - Перезапись лейблов сущности:
 
-  ![Перезапись лейблов сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/rerecording_labels.png)
+  ![Перезапись лейблов сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/rerecording_labels.PNG)
   
   POST /api/rerecording_labels
 
@@ -26,7 +26,7 @@ API-методы для работы с приложением:
 
 - Добавление лейблов к сущности:
 
-  ![Добавление лейблов к сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/add_labels.png)
+  ![Добавление лейблов к сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/add_labels.PNG)
 
   PUT /api/add_labels
 
@@ -41,7 +41,7 @@ API-методы для работы с приложением:
 
 - Удаление лейблов сущности:
 
-  ![Удаление лейблов сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/delete_labels.png)
+  ![Удаление лейблов сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/delete_labels.PNG)
 
   DELETE /api/delete_labels
 
@@ -56,7 +56,7 @@ API-методы для работы с приложением:
 
 - Получение лейблов сущности:
 
-  ![Получение лейблов сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/get_labels.png)
+  ![Получение лейблов сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/get_labels.PNG)
 
   GET /api/get_labels
 
