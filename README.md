@@ -11,7 +11,9 @@ API-методы для работы с приложением:
 
 - Перезапись лейблов сущности:
 
-  ![Перезапись лейблов сущности](https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/rerecording_labels.PNG)
+  <div align="left">
+    <img src="https://github.com/argusdevel/labels/tree/master/public/images/requestsExample/rerecording_labels.PNG" width="100"/>
+  </div>
   
   POST /api/rerecording_labels
 
